@@ -1,0 +1,50 @@
+header{
+height:60px;
+background: #63ff1a;
+padding:0 50px;
+}
+.logo{
+float:left;
+}
+
+
+nav{
+width:68%;
+float:right;
+text-align: center;
+}
+
+nav ul{
+list-style: none;
+float: right;
+}
+
+nav ul li{
+display:inline-block;
+list-style: none;
+}
+
+
+nav ul li a{
+color:maroon;
+font-family:Bradley Hand ITC;
+font-weight:bold;
+margin:0 10px;
+line-height:60px;
+text-transform: uppercase;
+}
+
+nav ul li a:hover{color:Green;
+}
+
+footer{
+background: #ffa31a;
+color:Maroon;
+padding:0 50px;
+}
+
+#photogallery{
+    width:400px;
+    height:400px;
+
+}
